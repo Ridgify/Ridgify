@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Nick 👋
 
-<!--
-**Ridgify/Ridgify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance and Accounting student at the University of Dayton (Class of 2029) who builds AI and automation tools for real businesses.
 
-Here are some ideas to get you started:
+### What I'm building
+- **FE Inventory System** – live inventory tracking for Flyer Enterprises, UD's student-run business, where I'm the AI Engineer
+- **Window Takeoff Automation** – turns architectural drawing sets into window counts and schedules for a construction client
+- **Trading Systems** – automated futures and options trading bots in Python
+- **ProspectAI** – AI drilling intelligence platform for oil and mineral rights analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Also
+- Equity Research Analyst at the Davis Center for Portfolio Management
+- Research Analyst at Flyer Angels, UD's student-run angel fund
+
+### Tools
+Python · TypeScript · LLM APIs (Claude, OpenRouter) · Claude Code
+
+📫 [LinkedIn](https://www.linkedin.com/in/ridgwayn)
